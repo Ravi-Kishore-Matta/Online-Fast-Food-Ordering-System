@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Last bench web design</title>
+        <link rel="stylesheet"href="style.css">
+    </head>
+    <body>
+        <div class="main">
+            <div class="main">
+                <div class="icon">
+                    <h2 class="logo">LAST BENCH FOODHUB</h2>
+                </div>
+                <div class="menu">
+                    <ul>
+                        <li><a href="#">ICE CREAMS</a></li>
+                        <li><a href="staters.html">STATERS</a></li>
+                        <li><a href="#">DRINKS-WATERBOTTELS</a></li>
+                        <li><a href="#">BIRYANI</a></li>
+                        <li><a href="#">CURRIES</a></li>
+                    </ul>
+                </div>
+                <div class="search">
+                    <input class="srch" type="search" name=""placeholder="Type to search">
+                    <a href="#"><button class="btn">search</button></a>
+                </div>
+            </div>
+                <div class="form">
+                    <h2>login for order</h2>
+                    <input type="email" name="email"placeholder="Enter email here">
+                    <input type="password" name=""placeholder="Enter Password Here">
+                    <button class="btn"><a href="#">Login</a></button>
+                     
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
